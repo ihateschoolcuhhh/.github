@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Skool HQ</h1>
-  <h3>we bring you the best "school" experience.</h3>
-  <p>here at skool, we're working on providing you with the best apps, games, hacks, and other school tools.<br><b>get started now at <a href="https://dsc.gg/skoolworld">dsc.gg/skoolworld</a>!</p>
+  <h1>Polaris/Skool</h1>
+  <p>Meet Polaris (Skool V3)! Our newest gaming website with tons of cool features and dozens of domains. Now live at <a href="https://polarislearning.org">https://polarislearning.org</a></p>
 </div>
